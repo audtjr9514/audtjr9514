@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=waving&color=31A8FF&height=200&section=header&text=🛸앞날%20창창%20서쿠's%20Git👋&fontSize=65&width=100)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=31A8FF&height=270&section=header&text=🛸앞날%20창창%20서쿠's%20Git👋&fontSize=65&fontColor=FFFFFF&width=100)
 
 
 <h3 align ="center"\>🔎 My Tech Stack🔍 </h3>
