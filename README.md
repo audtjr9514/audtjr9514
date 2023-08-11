@@ -7,17 +7,6 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Bootstap-7952B3?style=plastic&logo=Bootstrap&logoColor=white"/></a>&nbsp
-<br/>
-<img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=plastic&logo=Ruby&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=plastic&logo=Ruby%20on%20Rails&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Bootstap-7952B3?style=plastic&logo=Bootstrap&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=SQLite&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=Heroku&logoColor=white"/></a>&nbsp
 </p>
 
 -----
